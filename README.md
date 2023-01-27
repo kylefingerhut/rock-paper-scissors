@@ -1,0 +1,1 @@
+# This is an Odin Project assignment involving creating a rock, paper, scissors game using JavaScript. The game will play in the console.
